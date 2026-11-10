@@ -146,7 +146,7 @@ TE000144,jogging
 TE000145,knees_bending
 TE000146,sitting
 TE000147,cycling
-TE000148,jogging
+TE000148,running
 TE000149,knees_bending
 TE000150,jump_front_back
 TE000151,knees_bending
@@ -257,7 +257,7 @@ TE000255,climbing_stairs
 TE000256,arm_elevation
 TE000257,knees_bending
 TE000258,standing
-TE000259,standing
+TE000259,sitting
 TE000260,running
 TE000261,standing
 TE000262,arm_elevation
