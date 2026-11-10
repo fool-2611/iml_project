@@ -1,0 +1,8 @@
+data/
+outputs/
+backup_original/
+__pycache__/
+*.csv
+*.zip
+*.parquet
+.ipynb_checkpoints/
